@@ -27,6 +27,3 @@ python main.py
 - Clear classification report showing precision, recall, F1-score
 - Feature importance rankings
 
-## Try Other Datasets
-Change the dataset in `main.py` or run:
-- `python breast_cancer_example.py` - Medical data classification
